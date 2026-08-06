@@ -42,6 +42,7 @@ Recommend strategies to reduce customer churn by at least 10% using insights fro
 
 # Project Deliverables:
 **By the end of the project, the Data Science team should deliver:**
+
 -Business Understanding Report
 
 -Data Cleaning Report
