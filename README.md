@@ -21,14 +21,18 @@ The objective of this project is to develop a classification model that can answ
 -Which customer segment has the highest churn rate?
 
 ## II) Revenue Analysis
-Are high-paying customers leaving?
-Which contract type generates maximum customer retention?
-Which payment methods are associated with higher churn?
+-Are high-paying customers leaving?
+
+-Which contract type generates maximum customer retention?
+
+-Which payment methods are associated with higher churn?
 
 ## III) Service Analysis
-Does Technical Support reduce churn?
-Does Internet Service type affect churn?
-Which telecom services encourage customers to stay?
+-Does Technical Support reduce churn?
+
+-Does Internet Service type affect churn?
+
+-Which telecom services encourage customers to stay?
 
 ## IV) Machine Learning Objective
 Build a predictive model that can accurately classify whether a customer will Stay or Churn.
