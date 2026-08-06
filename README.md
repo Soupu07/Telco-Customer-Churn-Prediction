@@ -63,7 +63,9 @@ Recommend strategies to reduce customer churn by at least 10% using insights fro
 
 # Author
 **Souparna Hui**
+
 **LinkedIn**: https://www.linkedin.com/in/souparna-hui/
+
 **Github**: https://github.com/Soupu07
 
 
