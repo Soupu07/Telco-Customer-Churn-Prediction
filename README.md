@@ -1,4 +1,5 @@
 # Telco-Customer-Churn-Prediction
+
 An End-to-End Machine Learning project for predicting telecom customer churn using Python and Scikit-learn.
 
 # Project Overview
@@ -59,5 +60,9 @@ Recommend strategies to reduce customer churn by at least 10% using insights fro
 
 -Business Recommendations
 
+# Author
+**Souparna Hui**
+**LinkedIn**: https://www.linkedin.com/in/souparna-hui/
+**Github**: https://github.com/Soupu07
 
 
