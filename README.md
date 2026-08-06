@@ -1,70 +1,49 @@
 # Telco-Customer-Churn-Prediction
 An End-to-End Machine Learning project for predicting telecom customer churn using Python and Scikit-learn.
 
-## Project Overview
+# Project Overview
 Customer churn is one of the biggest challenges in the telecom industry. Retaining existing customers is often more cost-effective than acquiring new ones. This project uses **Predictive Analytics** and **Machine Learning** to identify customers who are likely to discontinue their services, enabling businesses to take proactive retention measures.
 
-## Business Objective
-The objective of this project is to develop a classification model that can:
+# Background Story
+**TeleConnect Communications Pvt. Ltd** is one of the fastest-growing telecom companies in India, with over **500,000 active customers**. 
+Over the last 12 months, the company has observed a significant increase in customer cancellations. Approximately **26% of customers are leaving the company every year**, resulting in substantial revenue loss and increased customer acquisition costs. 
+The leadership team believes that many of these customers could have been retained if they had been identified before deciding to leave. 
+To address this challenge, the company has hired the **Data Science Team** to develop a machine learning solution capable of predicting customers who are likely to churn. 
 
-- Predict customers who are likely to churn.
-- Identify the key factors influencing customer attrition.
-- Support data-driven customer retention strategies.
-- Generate actionable business insights.
+# Business Objective
+The objective of this project is to develop a classification model that can answer the following questions:
 
-## Dataset
-- **Dataset:** Telco Customer Churn
-- **Domain:** Telecommunications
-- **Problem Type:** Binary Classification
-- **Target Variable:** `Churn (Yes / No)`
+## I) Customer Behaviour
+Which customers are most likely to leave?
+What are the major reasons behind customer churn?
+Which customer segment has the highest churn rate?
 
-## Technology Stack
-- Python
-- Google Colab
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Joblib
+## II) Revenue Analysis
+Are high-paying customers leaving?
+Which contract type generates maximum customer retention?
+Which payment methods are associated with higher churn?
 
-## Project Workflow
-Business Understanding
-        ↓
-Data Collection
-        ↓
-Data Cleaning & Preprocessing
-        ↓
-Exploratory Data Analysis (EDA)
-        ↓
-Feature Engineering
-        ↓
-Model Development
-        ↓
-Model Evaluation
-        ↓
-Hyperparameter Tuning
-        ↓
-Business Insights & Recommendations
+## III) Service Analysis
+Does Technical Support reduce churn?
+Does Internet Service type affect churn?
+Which telecom services encourage customers to stay?
 
-## Machine Learning Models Evaluated
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
+## IV) Machine Learning Objective
+Build a predictive model that can accurately classify whether a customer will Stay or Churn.
 
-## Model Performance
-| Metric | Result |
-|---------|--------|
-| Selected Model | Logistic Regression |
-| Accuracy | **80.62%** |
-| ROC-AUC Score | **84.22%** |
+## V) Business Objective
+Recommend strategies to reduce customer churn by at least 10% using insights from the analysis.
 
-## Key Business Insights
-- Customers with **Month-to-Month contracts** showed the highest churn rate.
-- Customers with **shorter tenure** were more likely to leave the service.
-- **Electronic Check** payment users had a higher likelihood of churn.
-- Value-added services such as **Online Security** and **Tech Support** were associated with improved customer retention.
-- Customer billing patterns played an important role in churn prediction.
+# Project Deliverables:
+## By the end of the project, the Data Science team should deliver:
+-Business Understanding Report
+-Data Cleaning Report
+-Exploratory Data Analysis
+-Feature Engineering
+-Machine Learning Models
+-Model Comparison
+-Best Model Selection
+-Business Recommendations
+
+
 
