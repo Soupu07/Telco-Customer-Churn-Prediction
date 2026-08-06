@@ -14,9 +14,11 @@ To address this challenge, the company has hired the **Data Science Team** to de
 The objective of this project is to develop a classification model that can answer the following questions:
 
 ## I) Customer Behaviour
-Which customers are most likely to leave?
-What are the major reasons behind customer churn?
-Which customer segment has the highest churn rate?
+-Which customers are most likely to leave?
+
+-What are the major reasons behind customer churn?
+
+-Which customer segment has the highest churn rate?
 
 ## II) Revenue Analysis
 Are high-paying customers leaving?
