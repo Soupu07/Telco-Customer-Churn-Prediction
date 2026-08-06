@@ -1,5 +1,5 @@
 # Telco-Customer-Churn-Prediction
-![Project Banner](images/project_banner.png)
+![Project Banner](images/Telco_Customer_Churn.jpg)
 
 An End-to-End Machine Learning project for predicting telecom customer churn using Python and Scikit-learn.
 
