@@ -1,7 +1,7 @@
 # Telco-Customer-Churn-Prediction
 ![Project Banner](images/Telco_Customer_Churn.jpg)
 
-An End-to-End Machine Learning project for predicting telecom customer churn using Python and Scikit-learn.
+**An End-to-End Machine Learning project for predicting telecom customer churn using Python and Scikit-learn.**
 
 # Project Overview
 Customer churn is one of the biggest challenges in the telecom industry. Retaining existing customers is often more cost-effective than acquiring new ones. This project uses **Predictive Analytics** and **Machine Learning** to identify customers who are likely to discontinue their services, enabling businesses to take proactive retention measures.
