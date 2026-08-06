@@ -41,14 +41,21 @@ Build a predictive model that can accurately classify whether a customer will St
 Recommend strategies to reduce customer churn by at least 10% using insights from the analysis.
 
 # Project Deliverables:
-## By the end of the project, the Data Science team should deliver:
+**By the end of the project, the Data Science team should deliver:**
 -Business Understanding Report
+
 -Data Cleaning Report
+
 -Exploratory Data Analysis
+
 -Feature Engineering
+
 -Machine Learning Models
+
 -Model Comparison
+
 -Best Model Selection
+
 -Business Recommendations
 
 
